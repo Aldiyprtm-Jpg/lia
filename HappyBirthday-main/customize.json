@@ -1,0 +1,31 @@
+{
+  "greeting": "Hallo",
+  "name": "Salma",
+  "greetingText": "selamat siang perempuan cantik",
+
+  "imagePath": "img/lydia2.png",
+  "text1": "Semoga kamu dalam kondisi bahagia waktu baca ini",
+  "textInChatBox": "selamat hari rabu untuk wanita cantik yang dirindukan oleh banyak orang, semoga hari ini menjadi hari yang penuh kebahagiaan dan cinta untukmu sayangku, cantiku, salmaaaaa. jangan lupa untuk tersenyum juga yaaaa.",
+  "sendButtonLabel": "Kirim",
+  "text2": "salmaaaaaa",
+  "text3": "makasih yaa",
+  "text4": "kamu udah jadi perempuan",
+  "text4Adjective": "KEREN",
+  "text5Entry": "my little star",
+  "text5Content": "tetep baik ke semua orang yaa",
+  "smiley": ":)",
+  "bigTextPart1": "✨",
+  "bigTextPart2": "❤️",
+  "wishHeading": "SALMA.APRILIA.SHAFIRA",
+  "outroText": "lia",
+  "replayText": "aku ijin main sama temen temen ya hari ini",
+  "outroSmiley": ":)",
+  "music": "./music/bofm.wav",
+  "fonts": [
+    {
+      "name": "Libre Baskerville",
+      "path": "https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Tagesschrift&display=swap"
+    }
+  ]
+}
+
